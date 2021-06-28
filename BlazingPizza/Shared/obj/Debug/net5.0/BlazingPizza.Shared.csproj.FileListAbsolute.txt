@@ -1,0 +1,12 @@
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/bin/Debug/net5.0/BlazingPizza.Shared.deps.json
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/bin/Debug/net5.0/BlazingPizza.Shared.dll
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/bin/Debug/net5.0/ref/BlazingPizza.Shared.dll
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/bin/Debug/net5.0/BlazingPizza.Shared.pdb
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.csproj.AssemblyReference.cache
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.AssemblyInfoInputs.cache
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.AssemblyInfo.cs
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.dll
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/ref/BlazingPizza.Shared.dll
+/Users/mishelmartinez/Projects/BlazingPizza/BlazingPizza/Shared/obj/Debug/net5.0/BlazingPizza.Shared.pdb
